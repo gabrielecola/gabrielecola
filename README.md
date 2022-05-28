@@ -2,7 +2,7 @@
 - 📊 I’m interested in Machine Learning,Bayesian Statistics and NLP
 - 👨‍💻 I’m currently enrolling in a Master's Degree in Data Analytics for Business
 - 🎓 Graduated in Statistics
-- 📬 How to reach me:[Linkedin:gabrielecola](https://www.linkedin.com/in/gabriele-cola-72b05b1bb/)
+- 📬 How to reach me: [Linkedin: gabrielecola](https://www.linkedin.com/in/gabriele-cola-72b05b1bb/)
 
 <!---
 gabrielecola/gabrielecola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
