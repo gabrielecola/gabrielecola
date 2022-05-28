@@ -1,4 +1,4 @@
-- 👋 Hello, I’m Gabriele Cola
+### 👋 Hello, I’m Gabriele Cola
 - 📊 I’m interested in Machine Learning,Bayesian Statistics and NLP
 - 👨‍💻 I’m currently enrolling in a Master's Degree in Data Analytics for Business
 
