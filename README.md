@@ -1,9 +1,14 @@
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/gabrielecola](https://www.datascienceportfol.io/gabrielecola)
 
-- 📫 How to reach me **gabrielecola44@gmail.com**
+- 👨‍💻 I'm enrolling in a Master's Degree in Data Analytics for business
+
+- 🎓 Graduated in Statistics
+
+- 💻 All of my projects are available at [https://www.datascienceportfol.io/gabrielecola](https://www.datascienceportfol.io/gabrielecola)
+
+- 📊 I'm interested in Machine Learning, Bayesian Statistics and NLP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
