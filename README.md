@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
-<img align="right" alt="Coding" width="400" src="Feed-Forward-Neural-Network.gif"> 
+<img align="right" alt="Coding" width="400" src='Feed-Forward-Neural-Network.gif'> 
 
 - 👨‍💻 I'm enrolling in a Master's Degree in Data Analytics for business
 
