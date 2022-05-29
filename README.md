@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
 
-- 👨‍💻 I'm enrolling in a Master's Degree in Data Analytics for business
+- 👨‍💻 I'm enrolled in a Master's Degree in Data Analytics for business
 
 - 🎓 Graduated in Statistics
 
