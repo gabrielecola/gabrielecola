@@ -1,4 +1,3 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*F5IKudcD4acJb0hcfoIVdA.gif)](https://github.com/gabrielecola)
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
 <img align="right" alt="Coding" width="400" src="https://vitolavecchia.altervista.org/wp-content/uploads/2019/06/Professione-Informatica-Differenza-tra-Data-scientist-e-Data-specialist.png">
