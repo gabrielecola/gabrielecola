@@ -1,3 +1,4 @@
+[![MasterHead](https://img.freepik.com/premium-vector/technology-science-logo-with-data-concept_337180-367.jpg?w=1480)](https://gabrielecola.io)
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
 <img align="right" alt="Coding" width="400" src="https://vitolavecchia.altervista.org/wp-content/uploads/2019/06/Professione-Informatica-Differenza-tra-Data-scientist-e-Data-specialist.png">
