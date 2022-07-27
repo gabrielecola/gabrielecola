@@ -7,7 +7,7 @@
 
 - 🎓 Graduated in Statistics
 
-- 💻 All of my projects are available at [https://gabrielecola.github.io/#portfolio](portfolio)
+- 💻 All of my projects are available at my [portfolio](https://gabrielecola.github.io/#portfolio)
 
 - 📊 I'm interested in Machine Learning, Bayesian Statistics and NLP
 
