@@ -1,3 +1,4 @@
+[![MasterHead](https://user-images.githubusercontent.com/103529789/182264786-13b11c99-ffb4-44cb-9d48-a359b5196b98.jpeg)](https://gabrielecola.io)
 <h1 align="center">Hello 👋, I'm Gabriele Cola</h1>
 <h2 align="center"> Data Scientist </h2>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
