@@ -9,7 +9,7 @@
 
 - 💻 All of my projects are available at my [portfolio](https://gabrielecola.github.io/#portfolio)
 
-- 📊 I'm interested in Machine Learning, Bayesian Statistics and NLP
+- 📊 I'm interested in MLOps, Machine Learning, Reinforcement Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
