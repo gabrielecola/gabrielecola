@@ -9,6 +9,8 @@
 
 - 💻 All of my projects are available at my [portfolio](https://gabrielecola.github.io/#portfolio)
 
+- :pencil: All my articles are available at my [blog](https://staituned.com/meet/member/gabriele-cola)
+
 - 📊 I'm interested in MLOps, Machine Learning, Reinforcement Learning
 
 <h3 align="left">Connect with me:</h3>
