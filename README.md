@@ -9,7 +9,7 @@
 
 - 💻 All of my projects are available at my [portfolio](https://gabrielecola.github.io/#portfolio)
 
-- :pencil: All my articles are available at my [blog](https://staituned.com/meet/member/gabriele-cola)
+- :pencil: My research paper is available at [Elsevier](https://www.sciencedirect.com/science/article/pii/S0278612523002157?dgcid=coauthor)
 
 - 📊 I'm interested in MLOps, Machine Learning, Reinforcement Learning
 
