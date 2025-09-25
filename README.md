@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabrielecola&label=Profile%20views&color=0e75b6&style=flat" alt="gabrielecola" /> </p>
 <img align="right" alt="Coding" width="250" src="https://indoanalytica.com/static/images/data-science-1.gif">
 
-- 👨‍💻 I'm currenty enrolled in a Master's Degree in Data Analytics for business
+- 👨‍💻 I'm currenty working as Data Scientist in Protiviti
 
 - 🎓 Graduated in Statistics
 
@@ -11,7 +11,7 @@
 
 - :pencil: My research paper is available at [Elsevier](https://www.sciencedirect.com/science/article/pii/S0278612523002157?dgcid=coauthor)
 
-- 📊 I'm interested in MLOps, Machine Learning, Reinforcement Learning
+- 📊 I'm interested in MLOps, llm, Reinforcement Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
