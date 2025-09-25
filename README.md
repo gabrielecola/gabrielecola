@@ -11,7 +11,7 @@
 
 - :pencil: My research paper is available at [Elsevier](https://www.sciencedirect.com/science/article/pii/S0278612523002157?dgcid=coauthor)
 
-- 📊 I'm interested in MLOps, llm, Reinforcement Learning
+- 📊 I'm interested in MLOps, LLM, Reinforcement Learning
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
