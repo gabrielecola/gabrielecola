@@ -7,7 +7,7 @@
 
 - 🎓 Graduated in Statistics
 
-- 💻 All of my projects are available at my [portfolio](https://gabrielecola.github.io/#portfolio)
+- 💻 All of my projects are available at my [portfolio](https://www.datascienceportfol.io/gabrielecola)
 
 - :pencil: My research paper is available at [Elsevier](https://www.sciencedirect.com/science/article/pii/S0278612523002157?dgcid=coauthor)
 
